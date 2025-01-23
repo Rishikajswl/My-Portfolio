@@ -139,10 +139,10 @@ gap: 2rem;
     transform: scaleY(1.1);
     color: azure;
 }
-#mernproject p{
+#project #mernproject p{
  margin-left:11rem;
 }
-#mernproject a{
+#project #mernproject a{
   text-decoration: none;
     color:rgba(0, 0, 0, 0.687);
 }
